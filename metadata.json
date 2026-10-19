@@ -1,0 +1,6 @@
+{
+  "name": "Auditor DARF & Resumo Fiscal",
+  "description": "Sistema automatizado de conferência e conciliação entre relatórios de resumo de impostos e guias DARF com identificação de divergências, exclusão de retenções e exportação de relatórios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
